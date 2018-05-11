@@ -6,7 +6,7 @@ Google Cloud Engine Logging Formatter for Logrus
 package main
 
 import (
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
     logrusgce "github.com/znly/logrus-gce"
 )
 
